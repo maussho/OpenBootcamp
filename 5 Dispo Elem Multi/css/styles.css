@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 15px 0;
+    gap: 10px;
+    
+}
+
+.imagenes{
+    width: 300px;
+    
+}
